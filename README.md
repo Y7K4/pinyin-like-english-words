@@ -26,4 +26,4 @@ Out of curiosity, I wrote a simple Python script `main.py` to find these pinyin-
 1. The longest pinyin-like word is [humuhumunukunukuapuaa](https://en.wikipedia.org/wiki/Reef_triggerfish). The pronounciations in English and pinyin are quite similar.
 2. About 3% (12209/370103) of words are pinyin-like.
 
-I'll write more in my blog post. It'll be in Chinese though.
+I'll write more in [my blog post](https://y7k4.github.io/2021/07/11/pinyin-like-english-words.html). It'll be in Chinese though.
